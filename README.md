@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ved Prakash</h1>
 <h3 align="center">A passionate and hard working Software Developer with knowledge of Mobile application developement with Android and Flutter with the experience of 3.8 years.</h3>
 
-- 🔭 I’m currently working on NeoSoft [MPCB](https://play.google.com/store/apps/details?id=com.knowledgelens.glens.maharashtra&hl=en_US)
+- 🔭 I’m currently working on Accenture
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
